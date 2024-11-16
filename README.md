@@ -66,6 +66,8 @@
 2. Примените изменения.
 
 В качестве решения приложите вывод значений ip-адресов команды ```terraform output```.
+## Ответ
+![image](https://github.com/user-attachments/assets/c5ee4bce-65c4-4e4f-b59b-4ba73dcb6e0a)
 
 
 ### Задание 5
